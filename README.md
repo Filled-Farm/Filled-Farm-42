@@ -44,7 +44,7 @@ WEB and ML model in folder :point_right: https://github.com/Filled-Farm/Filled-F
 
 <div>
   <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/farmerprofile1.jpg"  height="535" width="270" />
-  <img src="https:/github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/farmerprofile2.jpg"  height="535" width="270" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/farmerprofile2.jpg"  height="535" width="270" />
   <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/vendorprofile.jpg"  height="535" width="270" />
   <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/drawer.jpg"  height="535" width="270" />  
   <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/editprofile.jpg" height="535" width="270" />
