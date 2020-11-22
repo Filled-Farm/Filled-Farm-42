@@ -40,24 +40,25 @@ knowledge and time we have, everything for a better future.
 **IMPORTANT FOLDERS** \
 WEB and ML model in folder :point_right: https://github.com/Filled-Farm/Filled-Farm-42/tree/master/Web_app_filled_farm
 
-## UI and UX
+## UI and UX MOBILE
 
 <div>
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/farmerprofile1.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/farmerprofile2.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/vendorprofile.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/drawer.jpg" align="left" height="535" width="270" />  
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/editprofile.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/forsaleitems.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/suggestedprice.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/PublicPosts.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/interests.jpg" align="left" height="535" width="270" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_1.png" align="left" height="300" width="700" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_2.png" align="left" height="300" width="700" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_3.png" align="left" height="300" width="700" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_4.png" align="left" height="300" width="700" />
-  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_5.png" align="left"height="300" width="700" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/farmerprofile1.jpg"  height="535" width="270" />
+  <img src="https:/github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/farmerprofile2.jpg"  height="535" width="270" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/vendorprofile.jpg"  height="535" width="270" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/drawer.jpg"  height="535" width="270" />  
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/editprofile.jpg" height="535" width="270" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/forsaleitems.jpg"  height="535" width="270" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/suggestedprice.jpg" height="535" width="270" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/PublicPosts.jpg"  height="535" width="270" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/interests.jpg"  height="535" width="270" />
+</div><br><br>
 
-
- 
-</div>
+##  UI and UX WEB
+<div>
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_1.png"  height="300" width="700" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_2.png"  height="300" width="700" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_3.png" height="300" width="700" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_4.png" height="300" width="700" />
+  <img src="https://github.com/Filled-Farm/Filled-Farm-42/blob/master/assets/screenshots/page_5.png" height="300" width="700" />
+ </div>
